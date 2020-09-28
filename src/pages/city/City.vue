@@ -50,6 +50,7 @@ export default {
     this.getCityInfo()
   }
   // just a test for commit
+  // a test2 for commit
 }
 </script>
 
