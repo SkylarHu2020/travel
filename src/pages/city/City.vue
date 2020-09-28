@@ -49,6 +49,7 @@ export default {
   mounted () {
     this.getCityInfo()
   }
+  // just a test for commit
 }
 </script>
 
